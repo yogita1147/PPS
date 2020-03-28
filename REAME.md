@@ -16,7 +16,7 @@ ____
 int main()
 {
 puts("*********** ");
-puts("YOGITA SHARMA");
+puts("JAPNIT SINGH");
 puts("***********");
 return o;
 
