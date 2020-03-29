@@ -2,10 +2,10 @@
 
 ____
 # ***PROGRAMMING FOR PROBLEM SOLVING***
-# **NAME** :*JAPNIT SINGH*
-### **ROLL NO** : *1916032*
-### **BRANCH** : *ELECTRICAL ENGINEERING*
- ### **SECTION** : *A1*
+# **NAME** :*YOGITA SHARMA*
+### **ROLL NO** : **
+### **BRANCH** : *CSE*
+ ### **SECTION** : *B2*
 ____
 ### 1)To print your name using puts.
 ```c
